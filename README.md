@@ -1,6 +1,6 @@
 # CMIT 495 - Project 1: AWS Virtualization Proof-of-Concept
 
-**Student:** Aron Michaels   
+**Student:** Aron Michaels 
 **Date:** March 17, 2026  
 **Course:** CMIT 495 Current Trends and Projects in Computer Networks and Security
 
