@@ -22,7 +22,7 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 ## Key Learning Outcomes
 - Virtualization enables isolation, scalability, and portability in the cloud.  
 - Proper security group configuration and key-based SSH are essential for protecting remote servers.  
-- Always terminate resources to stay within lab budget and follow best practices.
+- Always terminate resources to stay within the lab budget and follow best practices.
 
 This project was completed as part of the UMGC CMIT 495 program and directly supports my goal of transitioning from call center work into entry-level cybersecurity/IT roles.
 
