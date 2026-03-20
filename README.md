@@ -20,7 +20,7 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 - `/screenshots` folder containing every step (launch wizard, SSH, updates, commands, termination)
 
 ## Screenshots Gallery
-Click any image below to enlarge — all steps are shown right here on the page:
+ all steps are shown right here on the page:
 
 ![01. AWS Dashboard](screenshots/AWS dashbord .png)  
 ![02. Launch Name & Tags](screenshots/Figure 2b Instance Name and Tags.png)  
