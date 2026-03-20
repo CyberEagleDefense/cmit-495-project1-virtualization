@@ -19,6 +19,24 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 - [Project1-Final.pdf](Project1-Final.pdf) ← Full assignment with all screenshots and explanations  
 - `/screenshots` folder containing every step (launch wizard, SSH, updates, commands, termination)
 
+## Screenshots Gallery
+Click any image below to enlarge — all steps are shown right here on the page:
+
+![01. AWS Dashboard](screenshots/01-aws-dashboard.png)  
+![02. Launch Name & Tags](screenshots/02-launch-name-tags.png)  
+![03. AMI Ubuntu Selection](screenshots/03-ami-ubuntu-selection.png)  
+![04. Instance Type t3.micro](screenshots/04-instance-type-t3-micro.png)  
+![05. Key Pair Creation](screenshots/05-key-pair-creation.png)  
+![06. Network Security Group My IP](screenshots/06-network-security-group-my-ip.png)  
+![07. Advanced Details](screenshots/07-advanced-details.png)  
+![08. Launch Success](screenshots/08-launch-success.png)  
+![09. Instance Running Status](screenshots/09-instance-running-status.png)  
+![10. PuTTY SSH Login](screenshots/10-putty-ssh-login.png)  
+![11. apt-get update](screenshots/11-apt-get-update.png)  
+![12. apt-get upgrade](screenshots/12-apt-get-upgrade.png)  
+![13. Commands Output](screenshots/13-commands-output.png)  
+![14. Local ipconfig](screenshots/14-local-ipconfig.png)  
+![15. Instance Terminated](screenshots/15-instance-terminated.png)
 
 ## Key Learning Outcomes
 - Virtualization enables isolation, scalability, and portability in the cloud.  
