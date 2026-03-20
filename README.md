@@ -20,13 +20,13 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 - `/screenshots` folder containing every step (launch wizard, SSH, updates, commands, termination)
 
 ## Screenshots Gallery
- All steps are shown right here on the page:
+Click any image below to enlarge — all steps are shown right here on the page:
 
 ![01. AWS Dashboard](screenshots/AWS dashbord .png)  
 ![02. Launch Name & Tags](screenshots/Figure 2b Instance Name and Tags.png)  
-![03. AMI Selection](screenshots/Figure 2c AMI Selection.png)  
-![04. Instance Type](screenshots/Figure 2d Instance Type.png)  
-![05. Key Pair](screenshots/Figure 2e 1 Key Pair.png)  
+![03. AMI Ubuntu Selection](screenshots/Figure 2c AMI Selection.png)  
+![04. Instance Type t3.micro](screenshots/Figure 2d Instance Type.png)  
+![05. Key Pair Creation](screenshots/Figure 2e 1 Key Pair.png)  
 ![06. Network & Security Group](screenshots/Figure 2f Network and Security Group.png)  
 ![07. Advanced Details](screenshots/Figure 2h Advanced Details Defaults.png)  
 ![08. Launch Success](screenshots/Figure 2j Launch Success.png)  
@@ -41,7 +41,7 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 ## Key Learning Outcomes
 - Virtualization enables isolation, scalability, and portability in the cloud.  
 - Proper security group configuration and key-based SSH are essential for protecting remote servers.  
-- Always terminate resources to stay within the lab budget and follow best practices.
+- Always terminate resources to stay within lab budget and follow best practices.
 
 This project was completed as part of the UMGC CMIT 495 program and directly supports my goal of transitioning from call center work into entry-level cybersecurity/IT roles.
 
