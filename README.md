@@ -35,8 +35,7 @@ Click any image below to enlarge — all steps are shown right here on the page:
 ![11. apt-get update](screenshots/Figure 4 a_ sudo apt-get update.png)  
 ![12. apt-get upgrade](screenshots/Figure 4 b_ sudo apt-get update.png)  
 ![13. Commands Output](screenshots/commands.png)  
-![14. Local ipconfig](screenshots/Figure 10 Local ipconfig Output.png)  
-![15. Instance Terminated](screenshots/termination.png)
+![14. Local ipconfig](screenshots/Figure 10 Local ipconfig Output.png)
 
 ## Key Learning Outcomes
 - Virtualization enables isolation, scalability, and portability in the cloud.  
