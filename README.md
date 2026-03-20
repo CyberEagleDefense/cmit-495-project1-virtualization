@@ -1,6 +1,6 @@
 # CMIT 495 - Project 1: AWS Virtualization Proof-of-Concept
 
-**Student:** Aron Michaels   
+**Student:** Aron Michaels  
 **Date:** March 17, 2026  
 **Course:** CMIT 495 Current Trends and Projects in Computer Networks and Security
 
@@ -22,21 +22,21 @@ I launched a secure Ubuntu 24.04 server in AWS EC2, connected remotely using PuT
 ## Screenshots Gallery
 Click any image below to enlarge — all steps are shown right here on the page:
 
-![01. AWS Dashboard](screenshots/01-aws-dashboard.png)  
-![02. Launch Name & Tags](screenshots/02-launch-name-tags.png)  
-![03. AMI Ubuntu Selection](screenshots/03-ami-ubuntu-selection.png)  
-![04. Instance Type t3.micro](screenshots/04-instance-type-t3-micro.png)  
-![05. Key Pair Creation](screenshots/05-key-pair-creation.png)  
-![06. Network Security Group My IP](screenshots/06-network-security-group-my-ip.png)  
-![07. Advanced Details](screenshots/07-advanced-details.png)  
-![08. Launch Success](screenshots/08-launch-success.png)  
-![09. Instance Running Status](screenshots/09-instance-running-status.png)  
-![10. PuTTY SSH Login](screenshots/10-putty-ssh-login.png)  
-![11. apt-get update](screenshots/11-apt-get-update.png)  
-![12. apt-get upgrade](screenshots/12-apt-get-upgrade.png)  
-![13. Commands Output](screenshots/13-commands-output.png)  
-![14. Local ipconfig](screenshots/14-local-ipconfig.png)  
-![15. Instance Terminated](screenshots/15-instance-terminated.png)
+![01. AWS Dashboard](screenshots/AWS dashbord .png)  
+![02. Launch Name & Tags](screenshots/Figure 2b Instance Name and Tags.png)  
+![03. AMI Selection](screenshots/Figure 2c AMI Selection.png)  
+![04. Instance Type](screenshots/Figure 2d Instance Type.png)  
+![05. Key Pair](screenshots/Figure 2e 1 Key Pair.png)  
+![06. Network & Security Group](screenshots/Figure 2f Network and Security Group.png)  
+![07. Advanced Details](screenshots/Figure 2h Advanced Details Defaults.png)  
+![08. Launch Success](screenshots/Figure 2j Launch Success.png)  
+![09. Instance Running Status](screenshots/Figure 2k Instance Running Status.png)  
+![10. PuTTY SSH Login](screenshots/Figure 5 PuTTY SSH Connection Success.png)  
+![11. apt-get update](screenshots/Figure 4 a_ sudo apt-get update.png)  
+![12. apt-get upgrade](screenshots/Figure 4 b_ sudo apt-get update.png)  
+![13. Commands Output](screenshots/commands.png)  
+![14. Local ipconfig](screenshots/Figure 10 Local ipconfig Output.png)  
+![15. Instance Terminated](screenshots/termination.png)
 
 ## Key Learning Outcomes
 - Virtualization enables isolation, scalability, and portability in the cloud.  
